@@ -23,4 +23,3 @@ if tanya3 == 'Y':
     import random
     a = ["sepatu", "sandal", "flatshoes"]
     print('Selamat anda mendapatkan', random.choice(a), 'hanya dengan membayar 100000')
-
